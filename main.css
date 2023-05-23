@@ -61,6 +61,17 @@ margin: 0;
     font-family: sans-serif;
 } */
 
+.plan__prices {
+color: rgb(45, 45, 45);
+}
+
+.plan__title {
+    color: #303c34;
+}
+
+.highlighted .plan__title {
+    color: white;
+}
 .main-header {
     width: 100%;
     background: #2ddf5c;
