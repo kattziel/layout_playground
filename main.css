@@ -88,6 +88,16 @@ cursor: pointer;
     color:#0e4d1f;
     background: white;
 }
+
+#key-features {
+    background: #ff1b68;
+    margin-top: 80px;
+    padding: 16px;
+}
+
+#key_features .section-title {
+    color: white;
+    margin: 32px;
 }
 
 .main-header {
