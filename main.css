@@ -72,6 +72,24 @@ color: rgb(45, 45, 45);
 .highlighted .plan__title {
     color: white;
 }
+
+.button {
+background: #0e4d1f;
+color: white;
+padding: 8px;
+border-radius: 8px;
+font: inherit;
+border: 1px;
+cursor: pointer;
+}
+
+.button:hover,
+.button.active {
+    color:#0e4d1f;
+    background: white;
+}
+}
+
 .main-header {
     width: 100%;
     background: #2ddf5c;
